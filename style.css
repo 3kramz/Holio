@@ -1,0 +1,75 @@
+.bgnav{
+    background-color: rgba(56, 53, 53, 0.548) !important;
+}
+
+.fs-1{
+    font-size: 1rem;;
+}
+.fs-2{
+    font-size: 1.5rem;;
+}
+.fs-3{
+    font-size: 2rem;;
+}
+.fs-4{
+    font-size: 2.5rem;;
+}
+.fs-5{
+    font-size: 3rem;;
+}
+.hero{
+    background: url(https://images.unsplash.com/photo-1604964432806-254d07c11f32?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80) fixed;
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+  
+}
+.banner-title{
+    height: 80vh;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+.about{
+    background-color: aliceblue;
+}
+.underline{
+    width: 150px;
+    border:5px solid gray;
+    border-radius: 20px;
+    margin: 0px auto 0px auto;
+}
+
+.card{
+    box-shadow: 12px 10px 10px 0px gray;
+    transition: .4s;
+    border-radius: 10px;
+}
+.card:hover{
+    transform: scale(1.01);
+    box-shadow: 13px 11px 11px 0px gray;
+}
+.card img{
+    height: 10rem;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+.carousel-item img{
+    width: 100%;
+    height: 600px;
+    justify-content: center;
+}
+.carousel{
+    width: 100%;
+    
+}
+
+
+#enquiry{
+    background-color: aliceblue;
+}
+.bgf{
+    background-color:rgba(58, 58, 59, 0.116) ;
+}
